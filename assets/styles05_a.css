@@ -1,0 +1,141 @@
+h1{
+    font-family: sans-serif;
+    font-size: 80px;
+    position: fixed;
+    margin-left: 70%;
+    margin-top: 10%;
+    border: 5px solid whitesmoke;
+    color: whitesmoke;
+    
+}
+
+.main{
+ font-family: 'Lustria';
+    font-size: 20px;
+    text-align: center;
+    letter-spacing: 30px;
+}
+
+#nothing{
+  font-family: sans-serif;
+    text-align: center;
+    font-size: 50px;
+    text-decoration: line-through;
+    color: coral;
+}
+
+#everything{
+  font-family: sans-serif;
+    text-align: center;
+    font-size: 80px;
+    text-decoration: line-through;
+    color: lightcoral;
+}
+
+#dream{
+  font-family: sans-serif;
+    text-align: center;
+    font-size: 100px;
+    text-decoration: line-through;
+    color: coral;
+}
+
+#world{
+  font-family: sans-serif;
+    text-align: center;
+    font-size: 70px;
+    text-decoration: line-through;
+    color: coral;
+}
+
+#sane{
+    font-family: sans-serif;
+    text-align: center;
+    font-size: 90px;
+    text-decoration: line-through;
+    color: lightcoral;
+}
+
+#insanity{
+    font-family: sans-serif;
+    text-align: center;
+    font-size: 110px;
+    text-decoration: line-through;
+    color: coral;
+}
+
+#wrong{
+    font-family: sans-serif;
+    text-align: center;
+    font-size: 60px;
+    text-decoration: line-through;
+    color: lightcoral;
+}
+
+#real{
+  font-family: sans-serif;
+    font-size: 40px;
+    text-align: center;
+    letter-spacing: 20px;
+    color: white;
+    background-color: coral;
+}
+
+#see{
+ font-family: sans-serif;
+    font-size: 40px; 
+    text-align: center;
+    letter-spacing: 30px;
+    color: white;
+    background-color:  lightcoral;
+}
+
+#project{
+  font-family: sans-serif;
+    font-size: 40px; 
+    text-align: center;
+    letter-spacing: 40px;
+    color: white;
+    background-color: coral;
+}
+
+#way{
+  font-family: sans-serif;
+    font-size: 40px;
+    text-align: center;
+    letter-spacing: 60px;
+    color: white;
+    background-color:  lightcoral;
+}
+
+#embrace{
+    font-family: sans-serif;
+    font-size: 40px;
+    text-align: center;
+    letter-spacing: 20px;
+    color: white;
+    background-color: coral;
+}
+
+#could{
+    font-family: sans-serif;
+    font-size: 40px;
+    text-align: center;
+    letter-spacing: 50px;
+    color: white;
+    background-color:  lightcoral;
+}
+
+a{
+    text-decoration: none;
+}
+
+
+#scroll{
+    font-family: sans-serif;
+    letter-spacing: 40px;
+    font-size: 50px;
+    text-align: right;
+    margin: 100px;
+    text-transform: lowercase;
+}

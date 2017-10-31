@@ -1,0 +1,76 @@
+#heading-three {
+    position: fixed;
+    margin-top: 200px;
+    margin-left: 400px;
+    border-bottom: 3px solid black;
+    width: 500px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border-right: 3px solid black;
+}
+
+#para-one{
+    position: fixed;
+    margin-left: 400px;
+    margin-top: 250px;
+    width: 500px;
+}
+
+#para-two{
+    position: fixed;
+    margin-left: 410px;
+    margin-top: 310px;
+    width: 500px;
+}
+
+#para-three{
+    position: fixed;
+    margin-top: 290px;
+    margin-left: 430px;
+    width: 500px;
+}
+
+#para-four{
+    position: fixed;
+    margin-top: 320px;
+    margin-left: 450px;
+    width: 500px;
+}
+
+#para-five{
+    position: fixed;
+    margin-top: 350px;
+    margin-left: 410px;
+    width: 500px;
+}
+
+#para-six{
+    position: fixed;
+    margin-top: 375px;
+    margin-left: 420px;
+    width: 500px;
+}
+
+#para-seven{
+    position: fixed;
+    margin-top: 410px;
+    margin-left: 415px;
+    width: 500px;
+}
+
+#heading-four{
+    margin-top: 10px;
+    padding: 10px;
+    border-top: 3px solid black;
+}
+
+#para-eleven{
+    position: fixed;
+    margin-top: 5px;
+    margin-left: 50px;
+}
+
+a{
+    text-decoration: none;
+}
+

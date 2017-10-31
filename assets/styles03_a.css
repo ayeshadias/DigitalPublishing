@@ -1,0 +1,120 @@
+#headingone{
+    margin: 10px;
+    position: fixed;
+    left: 75%;
+    padding: 50px;
+    padding-left: 100px;
+    border-top: 2px solid black;
+    border-left: 2px solid black;
+    border-right: 2px solid black;
+}
+
+#headingtwo{
+    position: fixed;
+    margin-left: 10px;
+    margin-top: 300px;
+    left: 75%;
+    padding: 50px;
+    padding-right: 100px;
+    border-bottom: 2px solid black;
+    border-left: 2px solid black;
+    border-right: 2px solid black;
+}
+
+#be{
+    margin-left: 70px;
+}
+
+#more{
+    margin-left: 100px;
+}
+
+#positive{
+    margin-left: 30px;
+}
+
+#try{
+   margin-left: 110px; 
+}
+
+#to{
+  margin-left: 80px;  
+}
+
+#stop{
+  margin-left: 150px;  
+}
+
+#anthro{
+   margin-left: 100px; 
+}
+
+#the{
+   margin-left: 50px; 
+}
+
+#animals{
+   margin-left: 80px; 
+}
+
+#i{
+    margin-left: 30px;
+}
+
+#know{
+    margin-left: 140px;
+}
+
+#or{
+  margin-left: 100px;  
+}
+
+#at{
+   margin-left: 40px; 
+}
+
+#least{
+  margin-left: 120px;   
+}
+
+#do{
+  margin-left: 110px;  
+}
+
+#it{
+   margin-left: 90px; 
+}
+
+#less{
+   margin-left: 60px; 
+}
+
+#para-one{
+    position: fixed
+}
+
+
+#para-nine{
+    position: fixed;
+
+    margin-left: 150px;
+    margin-top: 34px;
+}
+
+#para-ten{
+    position: fixed;
+
+    margin-left: 400px;
+    margin-top: 0px;
+}
+
+#para-seven{
+    position: fixed;
+    margin-left: 320px;
+    margin-top: 0px;
+}
+
+a{
+    text-decoration: none;
+}
+

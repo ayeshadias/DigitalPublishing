@@ -1,0 +1,46 @@
+#heading-five {
+    padding-left: 50px;
+    position: fixed;   
+    border: 5px solid black;
+    width: 200px;
+    height: 700px;
+    margin: 0px;
+    
+}
+
+#para-one{
+    border: 5px solid black;
+    margin: 40px;
+    width: 400px;
+    padding-left: 230px;
+    padding-bottom: 30px;
+    padding-top: 30px;
+}
+
+#para-two{
+    border: 5px solid black;
+    margin: 40px;
+    width: 400px;
+    padding-left: 230px;
+    padding-bottom: 30px;
+    padding-top: 30px;
+    
+}
+
+#para-three{
+    border: 5px solid black;
+    margin: 40px;
+    width: 400px;
+    padding-left: 230px;
+    padding-bottom: 30px;
+    padding-top: 30px;
+}
+
+a{
+    text-decoration: none;
+}
+
+
+#scroll{
+    text-align: center;
+}

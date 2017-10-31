@@ -1,0 +1,38 @@
+#p-one{
+    text-align: right;
+    letter-spacing: 20px;
+    }
+
+#theclaim{
+    font-weight: bold;
+    position: fixed;
+    text-transform: uppercase;
+    font-family: sans-serif;
+    letter-spacing: 100px;
+    padding: 400px;
+    font-size: 50px;
+}
+
+#property{
+    font-weight: bold;
+    position: fixed;
+    text-transform: uppercase;
+    font-family: sans-serif;
+    letter-spacing: 80px;
+    padding: 100px;
+    font-size: 40px; 
+}
+
+#regarded{
+    font-weight: bold;
+    position: fixed;
+    text-transform: uppercase;
+    font-family: sans-serif;
+    letter-spacing: 70px;
+    padding: 50px;
+    font-size: 60px;
+}
+
+a{
+    text-decoration: none;
+}

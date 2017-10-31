@@ -1,0 +1,70 @@
+#headingonegray{
+   font-family: sans-serif;
+    font-size: 100px;
+    position: fixed;
+    color: whitesmoke;
+    margin-top: -150px;
+    letter-spacing: 10px;
+}
+
+#headingtwo{
+    font-family: sans-serif;
+    font-size: 80px;
+    letter-spacing: 20px;
+    margin-left: 100px;
+    margin-top: 65px;
+    position: fixed;
+    background-color: slateblue;
+    padding-left: 20px;
+    padding-top: 10px;
+    color: whitesmoke;
+}
+
+#headingthree{
+    font-family: sans-serif;
+    font-size: 150px;
+    text-align: center;
+    color: whitesmoke;
+        
+}
+
+#headingfour{
+     font-family: sans-serif;
+    font-size: 100px;
+    text-align: right;
+    letter-spacing: 15px;
+    background-color: slateblue;
+}
+
+.para{
+    font-family: 'Open Sans Condensed';
+    letter-spacing: 140px;
+    text-align: center;
+}
+
+#object{
+   font-family: 'Open Sans Condensed';
+    letter-spacing: 140px;
+    text-align: center;
+    font-weight: bolder;
+    text-transform: uppercase;
+    border: 1px solid black;
+}
+
+#everything{
+    font-family: 'Open Sans Condensed';
+    letter-spacing: 140px;
+    text-align: center;
+    border: 1px solid black;
+}
+    
+
+a{
+    text-decoration: none;
+}
+
+#scroll{
+    font-family: 'Open Sans Condensed';
+    text-align: right;
+    letter-spacing: 100px;
+}

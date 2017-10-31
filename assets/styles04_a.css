@@ -1,0 +1,67 @@
+#line-one{
+   text-align: left; 
+    font-size: 15px;
+    font-weight: bold;
+    letter-spacing: 15px;
+}
+
+#line-two{
+    text-align: center;
+    font-size: 30px;
+    letter-spacing: 20px;
+}
+
+#line-three{
+    text-align: right;
+    font-size: 20px;
+    letter-spacing: 6px;
+}
+
+#line-four{
+   text-align: center;
+    font-weight: bold;
+    letter-spacing: 10px;
+}
+
+#line-five{
+   text-align: left;
+    font-size: 45px;
+    letter-spacing: 15px;
+}
+
+#line-six{
+    text-align: center;
+    font-size: 20px;
+    letter-spacing: 4px;
+}
+
+#line-seven{
+    text-align: right;
+    font-size: 40px;
+    letter-spacing: 10px;
+}
+
+#isthemovement{
+    font-weight: bold;
+    position: fixed;
+    text-transform: uppercase;
+    font-family: sans-serif;
+    letter-spacing: 80px;
+    padding: 100px;
+    font-size: 40px;
+}
+
+#byhumanbeings{
+   font-weight: bold;
+    position: fixed;
+    text-transform: uppercase;
+    font-family: sans-serif;
+    letter-spacing: 80px;
+    padding: 300px;
+    font-size: 40px; 
+}
+
+a{
+    text-decoration: none;
+}
+

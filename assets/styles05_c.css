@@ -1,0 +1,137 @@
+#headingone{
+    font-family: sans-serif;
+    position: fixed;
+    margin: 150px;
+    margin-top: 40px;
+    letter-spacing: 20px;
+    font-size: 100px;
+     text-align: center;
+    color: darkseagreen;
+}
+
+#headingtwo{
+   font-family: sans-serif;
+    margin: 150px;
+    margin-top: 100px;
+    letter-spacing: 20px;
+    font-size: 100px;
+     text-align: center;
+    color: whitesmoke;
+    border: 10px solid darkseagreen;
+}
+
+.paraone{
+    font-family: 'Muli';
+     font-size: 3px;
+    text-align: center;
+}
+
+#paratwo{
+     text-align: center;
+    font-family: 'Muli';
+     font-size: 5px;
+    color: white;
+    
+}
+
+#parathree{
+    text-transform: uppercase;
+     text-align: center;
+    font-family: 'Muli';
+    font-size: 10px;
+    color: whitesmoke;
+    
+}
+
+#parafour{
+     text-align: center;
+    font-family: 'Muli';
+    font-size: 15px;
+    letter-spacing: 1px;
+    color: lightgray;
+}
+
+#parafive{
+     text-align: center;
+    font-family: 'Muli';
+    font-size: 20px;
+    letter-spacing: 1px;
+    padding: 5px;
+    color: gray;
+
+}
+
+#parasix{
+     text-align: center;
+   font-family: 'Muli';
+    font-size: 25px;
+    letter-spacing: 2px;
+    padding: 10px;
+    border-bottom: 1px solid black;
+    color: dimgray;
+    
+}
+
+#paraseven{
+     text-align: center;
+    font-family: 'Muli';
+    font-size: 30px;
+    letter-spacing: 3px;
+    padding: 15px;
+    border-bottom: 3px solid black;
+    border-top: 3px solid black;
+    color: darkgray;
+}
+
+#paraeight{
+     text-align: center;
+    font-family: 'Muli';
+    font-size: 35px;
+    letter-spacing: 4px;
+    padding: 20px;
+    border-bottom: 5px solid black;
+    border-top: 5px solid black;
+    border-right: 5px solid black;
+    color: black;
+}
+
+#paranine{
+     text-align: center;
+    font-family: 'Muli';
+    font-size: 40px;
+    letter-spacing: 5px;
+    padding: 25px;
+    border-bottom: 5px solid black;
+    border-top: 7px solid black;
+    border-right: 7px solid black;
+    border-left: 7px solid black;
+    color: black;
+}
+
+#paraten{
+     text-align: center;
+    font-family: 'Muli';
+    font-size: 45px;
+    letter-spacing: 6px;
+    padding: 30px;
+    border-bottom: 9px solid black;
+    border-top: 9px solid black;
+    border-right: 9px solid black;
+    border-left: 9px solid black;
+    border-color: black;
+    color: black;
+    
+}
+
+
+a{
+    text-decoration: none;
+}
+
+#scroll{
+    letter-spacing: 70px;
+    text-align: center;
+    text-transform: lowercase;
+    font-family: 'Muli';
+    
+}
